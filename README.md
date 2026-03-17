@@ -144,8 +144,10 @@ Open in browser:
 
 ### 🏠 Home Page
 <img width="1915" height="898" alt="Hostel management system" src="https://github.com/user-attachments/assets/b7837882-01d5-4530-8e0c-607421320e09" />
+
 ### 🧑‍🎓 Student login page
 <img width="1919" height="912" alt="student login" src="https://github.com/user-attachments/assets/dca7644b-b028-44eb-b543-37c6b5b5c3b0" />
+
 ### 📝 Outpass Request
 <img width="1919" height="469" alt="outpass" src="https://github.com/user-attachments/assets/89bf0049-8487-4604-8635-1ef0e1e11438" />
 
