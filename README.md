@@ -39,5 +39,3 @@ Open http://127.0.0.1:5000/
 
 Security
 - Passwords are stored in plain text in the database and in `app.py` for convenience. For production use, please store secrets in environment variables and hash passwords.
-
-If you want, I can also add a small script that automates DB creation and import. Would you like that?
