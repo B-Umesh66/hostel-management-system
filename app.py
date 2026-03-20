@@ -2,12 +2,12 @@ from flask import Flask, render_template, request, redirect, url_for, session, j
 import mysql.connector
 
 app = Flask(__name__)
-app.secret_key = '@Pandu2006' 
+app.secret_key = '*******' # --- Repalce by your flask secret key --- 
 
 # --- Database Configuration ---
 DB_CONFIG = {
     'user': 'root',         
-    'password': '@Umesh2004', 
+    'password': '*******',# --- Replace by your mySQL password ---
     'host': '127.0.0.1',    
     'database': 'hostel_management' 
 }
