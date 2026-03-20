@@ -176,10 +176,14 @@ Open in browser:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Umesh B**
-🔗 GitHub: https://github.com/B-Umesh66
+🔗 GitHub: https://github.com/B-Umesh66   
+**Naga Sai Shanmuk**
+🔗 GitHub: https://github.com/Shanmuk2309   
+**Kaushik Reddy**
+🔗 GitHub: https://github.com/kaushikrit   
 
 ---
 
